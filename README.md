@@ -79,9 +79,6 @@ Mobile-Charging-Station/
 ├── Simulation/
 │   └── Wokwi Files
 │
-├── Report/
-│   └── Project Report (PDF)
-│
 └── README.md
 ```
 
