@@ -70,7 +70,7 @@ The increasing demand for public mobile charging facilities requires solutions t
 Mobile-Charging-Station/
 │
 ├── Code/
-│   └── ESP32 Firmware
+│   └── ESP32
 │
 ├── Circuit Diagram/
 │   ├── Coin-Based Charging
