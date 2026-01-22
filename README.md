@@ -1,7 +1,7 @@
 
 # Mobile Charging Station
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the complete implementation of the **Mobile Charging Station** project developed as part of the **ETE 320 – Microprocessor and Microcontroller Sessional** course at the Department of Electronics and Telecommunication Engineering, Chittagong University of Engineering & Technology (CUET).
 
@@ -9,13 +9,13 @@ The project focuses on designing a **coin-based multi-port mobile charging syste
 
 ---
 
-## 🧠 Abstract
+## Abstract
 
 The increasing demand for public mobile charging facilities requires solutions that ensure controlled usage, secure access, and efficient power management. This project presents a coin-based multi-port mobile charging station built around an **ESP32 DevKit microcontroller**. The system integrates a **CH616 multi-coin acceptor** for time-bound, coin-operated charging and an **RFID module** for authenticated access to a dedicated charging port. Relay-controlled USB charging ports enable multiple users to charge devices simultaneously, while an LCD interface provides real-time system feedback. The design is modular, scalable, and suitable for real-world deployment.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Design a controlled public mobile charging system
 * Implement coin-operated, time-bound charging logic
@@ -25,7 +25,7 @@ The increasing demand for public mobile charging facilities requires solutions t
 
 ---
 
-## 🛠 Components Used
+## Components Used
 
 * **ESP32 DevKitC** – Main controller
 * **CH616 Multi-Coin Acceptor** – Coin detection and validation
@@ -38,7 +38,7 @@ The increasing demand for public mobile charging facilities requires solutions t
 
 ---
 
-## ⚙️ System Operation
+## System Operation
 
 ### Coin-Based Charging Mode
 
@@ -56,7 +56,7 @@ The increasing demand for public mobile charging facilities requires solutions t
 
 ---
 
-## 🧪 Simulation & Implementation
+## Simulation & Implementation
 
 * **Simulation Platform**: Wokwi (coin-based logic)
 * Verified correct sequencing of coin detection, port selection, timing, and automatic shutdown.
@@ -64,7 +64,7 @@ The increasing demand for public mobile charging facilities requires solutions t
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Mobile-Charging-Station/
@@ -84,7 +84,7 @@ Mobile-Charging-Station/
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Possible false coin pulses due to mechanical or electrical noise
 * Relay-based switching introduces mechanical wear
@@ -94,7 +94,7 @@ Mobile-Charging-Station/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Integration of mobile financial services (MFS)
 * Smart power management and adaptive charging
@@ -104,7 +104,7 @@ Mobile-Charging-Station/
 
 ---
 
-## 👩‍💻 Team Members
+## Team Members
 
 * **Wahida Zannat (2108003)** – Project Lead, Firmware & Integration
 * **Puspita Barua (2108007)** – Hardware Implementation & Testing
@@ -114,7 +114,7 @@ Mobile-Charging-Station/
 
 ---
 
-## 📚 Course Information
+## Course Information
 
 * **Course Code**: ETE 320
 * **Course Title**: Microprocessor and Microcontroller Sessional
@@ -123,6 +123,6 @@ Mobile-Charging-Station/
 
 ---
 
-## 📜 License
+## License
 
 This project is developed for academic purposes. Reuse is allowed with proper attribution.
